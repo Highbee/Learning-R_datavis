@@ -4,6 +4,7 @@
 # if the notches of two boxplots do not overlap,
 # then theres is a strong evidence(95 % confidence)
 # that the "medians", not mean of the two groups differ
+library(ggplot2)
 data(Salaries, package= "carData")
 plot_data<-Salaries
 

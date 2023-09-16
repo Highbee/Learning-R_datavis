@@ -1,4 +1,6 @@
+library(ggplot2)
 data(Salaries, package = "carData")
+
 
 plot_data<-Salaries
 # View(plot_data)
