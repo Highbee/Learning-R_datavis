@@ -1,1 +1,2 @@
-This infographics were generated through the datavis R book freely made available by Bob Kabacoff. 2018 -09 -03. Thank you very much
+This infographics were generated through the datavis R book freely made available by Bob Kabacoff. 2018 -09 -03. Thank you very much.
+P.S. Some visuals were generated using my understanding and intuitions and may deviate from what you expect.
